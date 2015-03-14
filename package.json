@@ -1,0 +1,14 @@
+{
+  "name": "butte-login",
+  "version": "0.0.0",
+  "description": "login app for BC CSAD.",
+  "main": "server.js",
+  "repository": "",
+  "author": "walter winser",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "latest",
+    "socket.io": "~0.9.14",
+    "mysql":"latest"
+  }
+}
